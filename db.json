@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "/assets/BeeHoney.png",
+      "productName": "Beeloved Honey",
+      "description": "Made from bees foraging in two distinct regions of Brazil — the northeast region, which produces a lighter-colored, delicately flavored honey, and the tropical southern region, home to a darker honey with a noticeably robust flavor.",
+      "price": "12.99",
+      "stock": "False"
+    },
+    {
+      "id": 2,
+      "productName": "Beeloved Honey Jar",
+      "image": "/assets/BeeHoneyPot.png",
+      "description": "This adobable bee-shaped honey jar is perfect for casual summertime meals or more festive dinner parties. Guests will be buzzing around your dinner table with this fun jar. Plated in nickel for long-lasting durability and shine.",
+      "price": "34.90",
+      "stock": true
+    },
+    {
+      "id": 3,
+      "productName": "Beeloved Stand Mixer",
+      "image": "/assets/BeeMixer.png",
+      "description": "Complete bowl coverage No scraping necessary; mix Hands free with excellent results every time; Planetary mixing rotates the beaters around the 4 quart, stainless steel bowl, for even and complete mixing.",
+      "price": 89.81,
+      "stock": true
+    },
+    {
+      "id": 5,
+      "productName": "Beeloved Ceramic Pitcher",
+      "image": "/assets/BeePitcher.png",
+      "description": "Serve your guests with style with this ceramic pitcher in ivory color. It features a vee design with a high gloss glaze finish and is an absolute stunner on any tabletop or shelf. Perfect for serving water, juice, or a delicious cocktail!",
+      "price": 43.99,
+      "stock": false
+    },
+    {
+      "id": 8,
+      "productName": "Beeloved Throw Pillows",
+      "image": "/assets/BeePillows.png",
+      "description": " Set of 4 Throw Pillows (16in X 16in), have a soft & velour like feel. They are comfortable & warm touch, that brings a luxurious look to your living room, bedding, patio, office, etc.",
+      "price": "47.57",
+      "stock": "false"
+    },
+    {
+      "id": 9,
+      "productName": "Beeloved Wall Print",
+      "image": "/assets/BeePrint.png",
+      "description": "This wall print decor makes a great conversation piece. All our handmade wall art prints will surely put a smile on anyone's face. Our gallery quality, art designs and images are digitally hand crafted and printed on premium, Fuji photographic paper designed for a lifetime of enjoyment.",
+      "price": 11.95,
+      "stock": true
+    },
+    {
+      "id": 10,
+      "productName": "Beeloved Wall Clock",
+      "image": "/assets/BeeClock.png",
+      "description": "This incredibly cool cast resin steampunk style honeybee wall clock looks like it came straight from the pages of a Jules Verne novel. The wall clock has an antiqued metallic bronze finish, with hand painted accents to bring out the amazing detail.",
+      "price": 68.36,
+      "stock": true
+    },
+    {
+      "id": 11,
+      "productName": "Beeloved Doormat",
+      "image": "/assets/BeeDoormat.png",
+      "description": "Welcome guests to your home in style. Features whimsical bee and crest design. Measures 18in x 30in. Made of coir coco palm fiber and painted using fade resistant enamel paints.",
+      "price": 45.38,
+      "stock": true
+    },
+    {
+      "id": 12,
+      "productName": "Beloved Leather Journal",
+      "image": "/assets/BeeNotebook.png",
+      "description": "The cover is made of high quality textured PU leather. The compact size will allow you to always carry it with you in your pocket or purse. An attached string will keep the journal secure and prevent it from opening. The page size is 5-by-7 inches.",
+      "price": "10.95",
+      "stock": true
+    },
+    {
+      "id": 13,
+      "productName": "Beloved Phone Case",
+      "image": "/assets/BeePhoneCase.png",
+      "description": "Compatible Model:iPhone 13. Fashion appearance, bright colors and accurate details make the case timeless. The high-quality material guarantees that it is wear-resistant, guarantees the period of use. The raised edge is higher than the screen to protect your Phone. The precisely cut case allows you to take full advantage of the charging port,headphone port and function keys.",
+      "price": 16.99,
+      "stock": false
+    },
+    {
+      "id": 15,
+      "productName": "Beeloved Necklace",
+      "image": "/assets/BeeNecklace.png",
+      "description": "Ladies diamond layered flower and bee necklace featuring 13 round cut diamonds in 10K yellow gold with black and white rhodium plating on 16 and 18 inch 10K yellow gold chains. .04 carat total diamond weight.",
+      "price": 700.77,
+      "stock": true
+    },
+    {
+      "id": 16,
+      "productName": "Beeloved Ring",
+      "image": "/assets/BeeRing.png",
+      "description": "This hand-made brass and silver has an artistic bohemian flair. This unique one-size-fits-all is a spinner ring that is used to ease anxiety and have also proven to help with nail biting and other nervous ticks.",
+      "price": 92.35,
+      "stock": true
+    }
+  ]
+}
